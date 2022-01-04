@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\bin\Debug\netcoreapp3.1\CalculaMedia.exe
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\bin\Debug\netcoreapp3.1\CalculaMedia.deps.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\bin\Debug\netcoreapp3.1\CalculaMedia.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\bin\Debug\netcoreapp3.1\CalculaMedia.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\bin\Debug\netcoreapp3.1\CalculaMedia.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\bin\Debug\netcoreapp3.1\CalculaMedia.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\obj\Debug\netcoreapp3.1\CalculaMedia.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\obj\Debug\netcoreapp3.1\CalculaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\obj\Debug\netcoreapp3.1\CalculaMedia.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\obj\Debug\netcoreapp3.1\CalculaMedia.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\obj\Debug\netcoreapp3.1\CalculaMedia.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\obj\Debug\netcoreapp3.1\CalculaMedia.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\obj\Debug\netcoreapp3.1\CalculaMedia.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\CalculaMedia\CalculaMedia\CalculaMedia\obj\Debug\netcoreapp3.1\CalculaMedia.genruntimeconfig.cache

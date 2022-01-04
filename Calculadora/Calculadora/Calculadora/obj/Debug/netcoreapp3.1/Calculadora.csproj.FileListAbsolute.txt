@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Calculadora\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.AssemblyReference.cache
