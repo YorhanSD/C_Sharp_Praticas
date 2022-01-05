@@ -2,7 +2,7 @@
 
 namespace CalculaMedia
 {
-    class Program
+    class CalculaMedia
     {
         static void Main(string[] args)
         {

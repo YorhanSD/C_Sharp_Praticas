@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\bin\Debug\netcoreapp3.1\PerguntasERespostas.exe
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\bin\Debug\netcoreapp3.1\PerguntasERespostas.deps.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\bin\Debug\netcoreapp3.1\PerguntasERespostas.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\bin\Debug\netcoreapp3.1\PerguntasERespostas.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\bin\Debug\netcoreapp3.1\PerguntasERespostas.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\bin\Debug\netcoreapp3.1\PerguntasERespostas.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\obj\Debug\netcoreapp3.1\PerguntasERespostas.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\obj\Debug\netcoreapp3.1\PerguntasERespostas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\obj\Debug\netcoreapp3.1\PerguntasERespostas.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\obj\Debug\netcoreapp3.1\PerguntasERespostas.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\obj\Debug\netcoreapp3.1\PerguntasERespostas.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\obj\Debug\netcoreapp3.1\PerguntasERespostas.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\obj\Debug\netcoreapp3.1\PerguntasERespostas.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\PerguntasERespostas\PerguntasERespostas\obj\Debug\netcoreapp3.1\PerguntasERespostas.genruntimeconfig.cache

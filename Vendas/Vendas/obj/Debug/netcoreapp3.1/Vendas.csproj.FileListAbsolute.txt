@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.exe
+C:\Users\pc\source\repos\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.deps.json
+C:\Users\pc\source\repos\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.runtimeconfig.json
+C:\Users\pc\source\repos\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.runtimeconfig.dev.json
+C:\Users\pc\source\repos\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.dll
+C:\Users\pc\source\repos\Vendas\Vendas\bin\Debug\netcoreapp3.1\Vendas.pdb
+C:\Users\pc\source\repos\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.AssemblyInfo.cs
+C:\Users\pc\source\repos\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.dll
+C:\Users\pc\source\repos\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.pdb
+C:\Users\pc\source\repos\Vendas\Vendas\obj\Debug\netcoreapp3.1\Vendas.genruntimeconfig.cache

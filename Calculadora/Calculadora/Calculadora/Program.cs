@@ -2,7 +2,7 @@
 
 namespace Calculadora
 {
-    class Program
+    class Calculadora
     {
         static void Main(string[] args)
         {
