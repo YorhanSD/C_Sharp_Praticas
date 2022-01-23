@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\obj\Debug\netcoreapp3.1\Estruturas.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\obj\Debug\netcoreapp3.1\Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\obj\Debug\netcoreapp3.1\Estruturas.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\obj\Debug\netcoreapp3.1\Estruturas.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\obj\Debug\netcoreapp3.1\Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\bin\Debug\netcoreapp3.1\Estruturas.exe
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\bin\Debug\netcoreapp3.1\Estruturas.deps.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\bin\Debug\netcoreapp3.1\Estruturas.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\bin\Debug\netcoreapp3.1\Estruturas.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\bin\Debug\netcoreapp3.1\Estruturas.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\bin\Debug\netcoreapp3.1\Estruturas.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\obj\Debug\netcoreapp3.1\Estruturas.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\obj\Debug\netcoreapp3.1\Estruturas.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Estruturas\Estruturas\Estruturas\obj\Debug\netcoreapp3.1\Estruturas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\bin\Debug\net6.0\Matriz.exe
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\bin\Debug\net6.0\Matriz.deps.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\bin\Debug\net6.0\Matriz.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\bin\Debug\net6.0\ref\Matriz.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\bin\Debug\net6.0\Matriz.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\Matriz.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\ref\Matriz.dll
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\Matriz.pdb
+C:\Users\pc\Documents\GitHub\C_Sharp_Praticas\Matriz\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache

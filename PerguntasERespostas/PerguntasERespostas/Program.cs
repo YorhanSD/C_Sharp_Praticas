@@ -67,7 +67,7 @@ namespace PerguntasERespostas
 
             Console.WriteLine("Valendo R$ : 250.000 Perguta na tela: \n");
 
-            Console.WriteLine("Qual o maior Mamífero no Mundo ? \n");
+            Console.WriteLine("Qual o maior Mamífero do Mundo ? \n");
 
             Console.WriteLine("A - Baleia-Cachalote \n");
 
